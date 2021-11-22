@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hot-fix change: hello git4");
         System.out.println("master change: 冲突合并");
         System.out.println("hot-fix change: 冲突合并");
+        System.out.println("push commit");
     }
 }
